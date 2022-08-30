@@ -1,7 +1,8 @@
 ### Development (I added the jars to git.)
 #.gitignore
 
-.idea/
+.idea/*
+*.iml
 
 dependency-reduced-pom.xml
 

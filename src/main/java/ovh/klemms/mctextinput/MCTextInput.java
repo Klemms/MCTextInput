@@ -1,2 +1,5 @@
-package ovh.klemms.mctextinput;public class MCTextInput {
+package ovh.klemms.mctextinput;
+
+public class MCTextInput {
+
 }
